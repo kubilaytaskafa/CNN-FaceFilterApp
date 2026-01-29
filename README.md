@@ -41,7 +41,7 @@ git clone https://github.com/kubilaytaskafa/CNN-faceFilterApp.git
 ```
 
 
-2. Gerekli Kütüphaneleri YükleyinTerminal veya komut istemcisinde şu komutu çalıştırın:
+2. Gerekli Kütüphaneleri Yükleyin : Terminal veya komut istemcisinde şu komutu çalıştırın:
 
 
 ```Bash
@@ -65,7 +65,7 @@ Kodun hatasız çalışması ve ses/görüntü efektlerinin devreye girmesi içi
 
  Görsel Dosyaları:
 
-- love.jpg (Alternatifler: love.jpeg veya seymam.jpg)
+- love.jpg (Alternatifler: love.jpeg )
 
 
 🚀 Kullanım
