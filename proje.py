@@ -44,7 +44,7 @@ if sound_charge: sound_charge.set_volume(1.0)
 if sound_ak47: sound_ak47.set_volume(1.0)
 
 # Fotoğraf Yükle (love.jpg öncelikli)
-photo_variations = ["love.jpg", "love.jpeg", "seymam.jpg", "seymam.png"]
+photo_variations = ["love.jpg", "love.jpeg"]
 heart_photo_original = None
 
 for p_name in photo_variations:
